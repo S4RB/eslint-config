@@ -1,0 +1,22 @@
+{
+  "name": "@s4rb/eslint-config",
+  "version": "1.0.0",
+  "description": "Custom S4RB ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S4RB/eslint-config.git"
+  },
+  "author": "Rob Scott <rob.scott@s4rb.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/S4RB/eslint-config/issues"
+  },
+  "homepage": "https://github.com/S4RB/eslint-config#readme",
+  "dependencies": {
+    "@s4rb/eslint-plugin-s4rb-custom": "^3.1.0"
+  }
+}

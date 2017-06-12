@@ -6,9 +6,6 @@ module.exports = {
 	parserOptions: {
 		ecmaVersion: 2017
 	},
-	ecmaFeatures: {
-		impliedStrict: true
-	},
 	globals: {
 		Reflect: false
 	},

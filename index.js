@@ -139,6 +139,7 @@ module.exports = {
 		'object-shorthand': 2,
 		'operator-assignment': [2, 'always'],
 		'object-curly-spacing': [2, 'always'],
+		'object-curly-newline': [2, { 'multiline': true }],
 		'operator-linebreak': [2, 'after'],
 		'prefer-arrow-callback': 2,
 		'prefer-const': 2,

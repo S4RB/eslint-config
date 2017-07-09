@@ -39,6 +39,7 @@ module.exports = {
 			before: false,
 			after: true
 		}],
+		'getter-return': 2,
 		'handle-callback-err': 2,
 		'indent': [2, 'tab', {
 			'SwitchCase': 1,

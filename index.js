@@ -160,10 +160,10 @@ module.exports = {
 		'@s4rb/s4rb-custom/no-bluebird-cast': 2,
 		'@s4rb/s4rb-custom/no-mixed-require': 2,
 		'@s4rb/s4rb-custom/no-multiline-bluebird-join': 2,
-		'@s4rb/s4rb-custom/no-relative-module-path': 1,
+		'@s4rb/s4rb-custom/no-relative-module-path': 2,
 		'semi': [2, 'always'],
 		'sort-imports': 2,
-		'sort-vars': 1,
+		'sort-vars': 2,
 		'space-before-blocks': [2, 'always'],
 		'space-before-function-paren': [2, {
 			anonymous: 'always',

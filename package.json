@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/S4RB/eslint-config#readme",
   "dependencies": {
-    "@s4rb/eslint-plugin-s4rb-custom": "^3.4.0"
+    "@s4rb/eslint-plugin-s4rb-custom": "^3.6.0"
   }
 }

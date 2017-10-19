@@ -161,7 +161,7 @@ module.exports = {
 		'@s4rb/s4rb-custom/no-mixed-require': 2,
 		'@s4rb/s4rb-custom/no-multiline-bluebird-join': 2,
 		'@s4rb/s4rb-custom/no-relative-module-path': 2,
-		'@s4rb/s4rb-custom/no-uppercase-bluebird-require': 2,
+		'@s4rb/s4rb-custom/no-uppercase-require': 2,
 		'@s4rb/s4rb-custom/no-translate-instant': 1,
 		'semi': [2, 'always'],
 		'sort-imports': 2,

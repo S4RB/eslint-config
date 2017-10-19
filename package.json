@@ -1,6 +1,6 @@
 {
   "name": "@s4rb/eslint-config",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "description": "Custom S4RB ESLint config",
   "main": "index.js",
   "scripts": {

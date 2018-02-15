@@ -172,7 +172,7 @@ module.exports = {
 		'@s4rb/s4rb-custom/no-multiline-bluebird-join': 'error',
 		'@s4rb/s4rb-custom/no-relative-module-path': 'error',
 		'@s4rb/s4rb-custom/no-uppercase-require': 'error',
-		'@s4rb/s4rb-custom/no-translate-instant': 'warning',
+		'@s4rb/s4rb-custom/no-translate-instant': 'warn',
 		'semi': ['error', 'always'],
 		'sort-imports': 'error',
 		'sort-vars': 'error',

@@ -14,6 +14,7 @@ module.exports = {
 		'jest'
 	],
 	rules: {
+		'array-bracket-spacing': ['error', 'never'],
 		'array-callback-return': 'error',
 		'arrow-parens': ['error', 'as-needed'],
 		'arrow-body-style': ['error', 'as-needed'],
